@@ -1,0 +1,9 @@
+[1] GeeksforGeeks, "IoT Security", Available: https://www.geeksforgeeks.org/iot-security/
+
+[2] IBM, "Internet of Things (IoT)", Available: https://www.ibm.com/topics/internet-of-things
+
+[3] Cisco, "What is IoT?", Available: https://www.cisco.com/c/en/us/solutions/internet-of-things/overview.html
+
+[4] Wikipedia, "Internet of Things", Available: https://en.wikipedia.org/wiki/Internet_of_things
+
+[5] Wikipedia, "Mirai Malware", Available: https://en.wikipedia.org/wiki/Mirai_(malware)
